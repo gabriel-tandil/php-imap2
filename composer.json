@@ -44,7 +44,6 @@
       "Javanile\\Imap2\\Tests\\": "tests"
     }
   },
-  "minimum-stability": "stable",
   "extra": {
     "thanks": {
       "name": "Roundcube",
